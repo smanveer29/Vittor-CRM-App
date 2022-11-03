@@ -1,0 +1,18 @@
+export const StatusData = [
+  {title: 'Open Miss Call', value: 5},
+  {title: 'Appointment Fixed', value: 5},
+  {title: 'Case End', value: 54},
+  {title: 'Cold FollowUp', value: 255},
+  {title: 'Hot FollowUp', value: 250},
+  {title: 'Interested', value: 56},
+  {title: 'not contacted', value: 10},
+  {title: 'not interested', value: 156},
+  {title: 'not Lifting', value: 9},
+  {title: 'not Lifting', value: 9},
+  {title: 'not Lifting', value: 9},
+  {title: 'not Lifting', value: 9},
+  {title: 'not Lifting', value: 9},
+  {title: 'not Lifting', value: 9},
+  {title: 'not Lifting', value: 9},
+  {title: 'not Lifting', value: 9},
+];
